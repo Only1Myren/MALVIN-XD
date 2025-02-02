@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~55YgyKrB#a_GCOSlaMtdT-6Nt-htIw1DVHhmFy7REVcUkOq22zQ0"
     },  
     
     "MENU_IMG": {
@@ -84,19 +84,19 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
+      "value": "*🎉👀 Seen by truth's ass 🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "Truth シ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "2348115278083"
 
     }, 
 
